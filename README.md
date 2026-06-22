@@ -6,8 +6,19 @@ SOC Analyst • Incident Response Enthusiast • DFIR Practitioner • Founder o
 
 <p align="center">
 Building cyber defense solutions, investigating threats, and creating practical cybersecurity projects.
-</p>
+</p><p align="center">
 
+<img src="https://img.shields.io/badge/Cybersecurity-Analyst-red?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/DFIR-Investigator-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SOC-Operations-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Founder-NULLGRIDS_LABS-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Muay_Thai-Gold_Medalist-gold?style=for-the-badge" />
+
+</p>
 ---
 
 ## 🚀 About Me
@@ -36,6 +47,13 @@ Building cyber defense solutions, investigating threats, and creating practical 
 🏆 State-Level Boxer
 
 🏆 State-Level Wrestler
+<h1 align="center">
+🛡️ SOC Analyst | DFIR Enthusiast | Founder @ NULLGRIDS LABS 🛡️
+</h1>
+
+<h3 align="center">
+Threat Detection • Incident Response • Threat Hunting • Cyber Defense
+</h3>
 
 ---
 
@@ -63,7 +81,23 @@ Building cyber defense solutions, investigating threats, and creating practical 
 - Pyroguards
 
 ---
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ## 🛠 Technical Skills
 
 ### Security Operations
@@ -83,7 +117,25 @@ Building cyber defense solutions, investigating threats, and creating practical 
 - Registry Analysis
 - Memory Analysis
 - Incident Documentation
+## 🛡 Security Tools
 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+
+![Autopsy](https://img.shields.io/badge/Autopsy-0066CC?style=for-the-badge)
+
+![Volatility](https://img.shields.io/badge/Volatility-990000?style=for-the-badge)
+
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge)
+
+![MITRE_ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge)
 ### Tools
 
 - Wazuh
@@ -168,7 +220,15 @@ Ranked 67th (Team Event)
 🏢 Founded MSME Registered Cybersecurity Organization
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nullfist&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullfist&layout=compact&theme=tokyonight"/>
+
+</p>
 ## 📜 Certifications
 
 - Microsoft SC-900
@@ -183,7 +243,9 @@ Ranked 67th (Team Event)
 - CTIGA
 
 ---
+## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nullfist&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📊 Current Focus
 
 🔵 Detection Engineering
@@ -199,7 +261,11 @@ Ranked 67th (Team Event)
 🔵 Cybersecurity Product Development
 
 ---
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=nullfist&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</p>
 ## 📫 Connect With Me
 
 LinkedIn: linkedin.com/in/syed-raihaan-a03445291
